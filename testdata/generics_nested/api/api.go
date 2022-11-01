@@ -3,8 +3,8 @@ package api
 import (
 	"net/http"
 
-	"github.com/swaggo/swag/testdata/generics_nested/types"
-	"github.com/swaggo/swag/testdata/generics_nested/web"
+	"github.com/Hinge/swag/testdata/generics_nested/types"
+	"github.com/Hinge/swag/testdata/generics_nested/web"
 )
 
 // @Summary List Posts

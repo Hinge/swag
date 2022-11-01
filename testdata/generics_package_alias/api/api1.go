@@ -1,7 +1,7 @@
 package api
 
 import (
-	myv1 "github.com/swaggo/swag/testdata/generics_package_alias/path1/v1"
+	myv1 "github.com/Hinge/swag/testdata/generics_package_alias/path1/v1"
 )
 
 // @Summary Create movie
